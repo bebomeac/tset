@@ -46,7 +46,7 @@ Then restart the bot.
 
 # Developers!
 
-[محمد ابن آل بيات](https://telegram.me/dev_iraq1)
+[محمد ابن آل بيات](https://telegram.me/xXxDe_iQxXx)
 
 
 ### Our Telegram channel:
